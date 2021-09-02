@@ -1,5 +1,5 @@
 Package: KMSubtraction
-Title: KMSubtraction
+Title: Reconstruction of unreported subgroup survival data utilizing published Kaplan-Meier survival curves
 Version: 1.0.0.0
 Authors@R: 
     person(given = "Joseph J",
