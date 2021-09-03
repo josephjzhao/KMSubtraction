@@ -307,7 +307,8 @@ plot_km_combined
 Acknowldegements: The authors would like to thank Assistant Professor
 Justin Silverman, College of Information Science and Technology, Penn
 State University, USA, for clarifying enquiries regarding the use of the
-Hungarian algorithm for bipartite matching.
+Hungarian algorithm for bipartite matching and Associate Professor Hyungwon 
+Choi for guiding us through the development of this package.
 
 ### **References**
 
