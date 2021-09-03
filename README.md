@@ -341,10 +341,13 @@ plot_km_combined
 
 ![](README_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
-Acknowldegements: The authors would like to thank Assistant Professor
+Acknowledegements: The authors would like to thank Assistant Professor
 Justin Silverman, College of Information Science and Technology, Penn
 State University, USA, for clarifying enquiries regarding the use of the
-Hungarian algorithm for bipartite matching.
+Hungarian algorithm for bipartite matching, and Associate Professor Hyungwon
+Choi, Department of Medicine, Yong Loo Lin School of Medicine, National 
+University of Singapore, for guiding us through the simulations and development 
+of the package.
 
 ### **References**
 
