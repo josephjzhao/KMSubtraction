@@ -26,8 +26,7 @@ data(cancer, package="survival")
 
 ### **Create curves for the scenario**
 
-For this example, we will be using the colon dataset from the survival
-package. We will assume the scenario in which, Kaplan-Meier (KM) curves
+We will assume the scenario in which, Kaplan-Meier (KM) curves
 of treatment outcomes with systemic therapy (5FU+Lev vs Lev) is only
 presented for patients in the overall cohort and patients with more than
 4 positive lymph nodes (the subgroup).
