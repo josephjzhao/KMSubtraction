@@ -199,6 +199,8 @@ KMSubtractionEvaluateMatch(match_arm2$data)
     ## attr(,"class")
     ## [1] "KMSubtractionEvaluateMatch"
 
+### **`KMSubtractionError`**
+
 It may also be useful to understand the uncertainty surrounding each
 task. We may do so using the function `KMSubtractionError()`, which
 conducts Monte Carlo simulations to evaluate the limits of error of
