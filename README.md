@@ -7,6 +7,8 @@ survival curves (`KMSubtractionMatch()`). We also discuss methods to
 evaluate the limits of error (`KMSubtractionError()`) and quality of
 match (`KMSubtractionEvaluateMatch()`).
 
+![](README_files/figure-markdown_github/KMSubtraction_illustration.pdf)
+
 ## **Installation**
 
 ``` r
