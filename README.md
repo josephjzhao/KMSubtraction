@@ -1,5 +1,4 @@
 # **KMSubtraction: Reconstruction of unreported subgroup survival data utilizing published Kaplan-Meier survival curves**
-*Joseph J Zhao*
 
 In this vignette, we demonstrate `KMSubtraction`, an approach to
 retrieve unreported subgroup survival data from published Kaplan-Meier
