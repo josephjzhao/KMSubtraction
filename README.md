@@ -1,10 +1,9 @@
 # **KMSubtraction: Reconstruction of unreported subgroup survival data utilizing published Kaplan-Meier survival curves**
 
-In this vignette, we demonstrate `KMSubtraction`, an approach to
-retrieve unreported subgroup survival data from published Kaplan-Meier
-survival curves (`KMSubtractionMatch()`). We also discuss methods to
-evaluate the limits of error (`KMSubtractionError()`) and quality of
-match (`KMSubtractionEvaluateMatch()`).
+`KMSubtraction` is an approach to retrieve unreported subgroup survival 
+data from published Kaplan-Meier survival curves `KMSubtractionMatch()`. 
+We also discuss methods to evaluate the limits of error `KMSubtractionError()`
+and quality of match `KMSubtractionEvaluateMatch()`.
 
 ![](README_files/figure-markdown_github/KMSubtraction_illustration.png)
 
