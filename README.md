@@ -1,7 +1,5 @@
 # **KMSubtraction: Reconstruction of unreported subgroup survival data utilizing published Kaplan-Meier survival curves**
 
-Please cite: Zhao, J. J., Yap, D. W. T., Chan, Y. H., Tan, B. K. J., Teo, C. B., Syn, N. L., . . . Sundar, R. (2021). Low Programmed Death-Ligand 1–Expressing Subgroup Outcomes of First-Line Immune Checkpoint Inhibitors in Gastric or Esophageal Adenocarcinoma. Journal of Clinical Oncology, JCO.21.01862. doi:10.1200/JCO.21.01862
-
 `KMSubtraction` is an approach to retrieve unreported subgroup survival data from published Kaplan-Meier survival curves `KMSubtractionMatch()`. 
 
 Here, we will demonstrate the implementation of `KMSubtraction` in R-4.1.0 and discuss methods to evaluate its limits of error `KMSubtractionError()` and quality of match `KMSubtractionEvaluateMatch()`.
@@ -351,6 +349,8 @@ Hungarian algorithm for bipartite matching, and Associate Professor Hyungwon
 Choi, Department of Medicine, Yong Loo Lin School of Medicine, National 
 University of Singapore, for guiding us through the simulations and development 
 of the package.
+
+Please cite: J. J. Zhao et al., "Low Programmed Death-Ligand 1–Expressing Subgroup Outcomes of First-Line Immune Checkpoint Inhibitors in Gastric or Esophageal Adenocarcinoma," Journal of Clinical Oncology, p. JCO.21.01862, 2021, doi: 10.1200/JCO.21.01862.
 
 ### **References**
 
