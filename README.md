@@ -2,7 +2,7 @@
 
 `KMSubtraction` is an approach to retrieve unreported subgroup survival data from published Kaplan-Meier survival curves `KMSubtractionMatch()`. 
 
-Here, we will demonstrate the implementation of `KMSubtraction` in R-4.1.0 and discuss methods to evaluate its limits of error `KMSubtractionError()` and quality of match `KMSubtractionEvaluateMatch()`.
+Here, we will demonstrate the implementation of `KMSubtraction` in R-4.1.0 and discuss methods to evaluate its limits of error `KMSubtractionError()` and quality of match `KMSubtractionEvaluateMatch()`. Users may alternatively use a Shinyapps version of the package https://josephjzhao.shinyapps.io/KMSubtraction/.
 
 ![](README_files/figure-markdown_github/KMSubtraction_illustration.png)
 
